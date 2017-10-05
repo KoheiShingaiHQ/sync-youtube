@@ -1,0 +1,17 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scrape.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-url": "^1.2.2",
+    "puppeteer": "^0.10.2",
+    "valid-url": "^1.0.9"
+  }
+}
